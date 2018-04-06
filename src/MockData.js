@@ -1,23 +1,24 @@
-const MockData = [
+export default [
     {
-        name: "Calico Bass",
-        scientificName: "Paralabrax clathratus",
-        description: "The greatest fish tacos",
-        size: 12,
-        bagLimit: 5,
-        seasons: "all",
-        location: "kelp patties",
-        tags: "#yellow monster"
+        "id": 1,
+        "name": "Calico Bass",
+        "scientificName": "Paralabrax clathratus",
+        "description": "The greatest fish tacos",
+        "size": 12,
+        "bagLimit": 5,
+        "seasons": "all",
+        "location": "kelp forest",
+        "tags": "#checkers"
     },
     {
-        name: "Yellowtail",
-        description: "Not a tuna",
-        size: 12,
-        bagLimit: 5,
-        seasons: "all",
-        location: "kelp patties",
-        tags: "#yoketail"
-    },
-];
-
-export default MockData;
+        "id": 2,
+        "name": "Yellowtail",
+        "scientificName": "Yellowtail infitus",
+        "description": "Not a tuna",
+        "size": 12,
+        "bagLimit": 5,
+        "seasons": "all",
+        "location": "kelp patties",
+        "tags": "#yoketail"
+    }
+    ]
