@@ -20,5 +20,16 @@ export default [
         "seasons": "all",
         "location": "kelp patties",
         "tags": "#yoketail"
+    },
+    {
+        "id": 3,
+        "name": "Halibut",
+        "scientificName": "Halibitus",
+        "description": "Flat and tasty",
+        "size": 22,
+        "bagLimit": 3,
+        "seasons": "all",
+        "location": "sand",
+        "tags": "#flattie"
     }
     ]
