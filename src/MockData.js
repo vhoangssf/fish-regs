@@ -1,6 +1,6 @@
 export default [
     {
-        "id": 1,
+        "id": 0,
         "name": "Calico Bass",
         "scientificName": "Paralabrax clathratus",
         "description": "The greatest fish tacos",
@@ -11,7 +11,7 @@ export default [
         "tags": "#checkers"
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "Yellowtail",
         "scientificName": "Yellowtail infitus",
         "description": "Not a tuna",
@@ -22,7 +22,7 @@ export default [
         "tags": "#yoketail"
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "Halibut",
         "scientificName": "Halibitus",
         "description": "Flat and tasty",
